@@ -12,12 +12,12 @@ nav{
   background-color: #DAF7A6;
 }
 
-.myhead
+.topbar
  {
 text-align: center;
-background-color:#EEF8DC;
-padding-top: 30px;
-padding-bottom: 30px;
+background-color:lightblue;
+padding-top: 45px;
+padding-bottom: 45px;
 }
 
 .leaflet-bottom.leaflet-left {
